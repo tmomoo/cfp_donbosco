@@ -1,0 +1,90 @@
+.blu {
+    background-color: #4971FF;
+    ;
+    color: white;
+    }
+    #fascetta-blu {
+     height: 36px;
+    padding: 5px;
+    padding-right: 100px;
+    }
+    #fascetta-blu a {
+        color: white;
+        text-decoration: none;
+    }
+    #fascetta-blu a:hover {
+        color: violet;
+    }
+    #navbar-bianca {
+        height: 91px;
+    }
+    .text {
+        padding: 40px;
+    }
+    #navbar-bianca a {
+        color: #4971ff;
+        text-decoration: none;
+    
+        
+    }
+    #navbar-bianca a:hover {
+        color: violet;
+    }
+    .logo {
+        position: absolute;
+    width: 172px;
+    height: 75px;
+    left: 171px;
+    top: 40px;
+    
+    
+    }
+    #fascia-carousel {
+    
+    margin-bottom: 10px;
+    background: #646464;
+    }
+    
+    
+    
+    .grigio {
+        color: #646464;
+    }
+    #tre-card {
+        color: white;
+        
+    }
+    #fascia-blu {
+       
+    width: 2000px;
+    height: 577px;
+    left: 0px;
+    top: 839px;
+    background-color: #4871ff;
+    margin-top: 10px;
+    margin-bottom: 50px
+    ;
+    }
+    #fascia-blu a {
+        color: white;
+        
+    }
+    
+    
+    .blue {
+        color: #4871ff;
+    }
+    #quattro-card {
+        color: white;
+    }
+    #mappa {
+        align-items: center;
+    }
+    h1{
+        color: white;
+    }
+    h2 {
+        color: white;
+        
+    }
+    
